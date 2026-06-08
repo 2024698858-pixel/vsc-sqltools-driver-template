@@ -1,12 +1,12 @@
 {
-  "name": "driver-template",
-  "displayName": "Driver Template",
-  "description": "Driver Template to be used as base for new VSCode SQLTools drivers",
+  "name": "Cahaya Homestay",
+  "displayName": "Cahaya Homestay",
+  "description": "Cahaya Homestay",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.42.0"
   },
-  "publisher": "mtxr",
+  "publisher": "2024698858-pixel",
   "license": "MIT",
   "repository": {},
   "bugs": {},
